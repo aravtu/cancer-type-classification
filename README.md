@@ -25,7 +25,6 @@ This repository contains a complete machine learning pipeline for classifying ca
   - SHAP interpretability
   - GEO validation
 - `README.md`: Project summary and usage
-- `data/`: (optional) Folder for processed TCGA/GEO expression files
 
 ---
 
